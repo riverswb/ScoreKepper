@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My First App Tutorial</string>
+    <string name="edit_message">Enter a Message</string>
+    <string name="button_send">Send</string>
+    <string name="button_score_keeper">Score Keeper</string>
+    <string name="button_plus_1">+1</string>
+    <string name="button_plus_5">+5</string>
+    <string name="button_plus_10">+10</string>
+    <string name="button_minus_1">-1</string>
+    <string name="button_minus_5">-5</string>
+    <string name="button_minus_10">-10</string>
+    <string name="text_name_1">Liz</string>
+</resources>
